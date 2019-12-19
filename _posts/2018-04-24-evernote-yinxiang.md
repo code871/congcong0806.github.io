@@ -48,12 +48,13 @@ tags:                               #标签
 	7. 分享笔记到微信好友/群组(iOS,Android)
 	8. 分享笔记到 QQ 空间(Android)
 	9. 公开链接分享(Mac,Win,iOS,Android)
-	10. 任务清单(Mac,iOS,Android)
+	10. 任务清单(Mac,Win,iOS,Android)
 	11. 思维导图(Mac,Win)
 	12. 素材库(Mac,iOS)
 	13. 全新网页版模块化编辑器(Web)
 	14. OCR提取图上文字(iOS,Android)
-	15. 协作
+	15. 空间(Win,iOS,Android)
+	16. 协作
 	17. 官网: https://www.yinxiang.com
 
 	国际版:
@@ -71,6 +72,10 @@ tags:                               #标签
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<http://www.jianshu.com/p/c2fdad6ad031><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人推荐第一个方法
 
+9，Chrome Evernote 剪藏登录国内版和国际版账户
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chrome 语言设置,把「简体中文」放到第一,重启Chrome,登录就是印象笔记 国内版账户登录
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chrome 语言设置,把「英语」放到第一,重启Chrome,登录就是Evernote 国际版账户登录
+
 > 转载请注明原文出处:[印象笔记(国内版)和 Evernote International (国际版)是什么区别](https://congcong0806.github.io/2018/04/24/evernote-yinxiang)
 
 - - - -
@@ -79,7 +84,7 @@ tags:                               #标签
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪:印象笔记资深印象大使,印象笔记年度象亲,坚果云效率大使,幕布布道师
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>

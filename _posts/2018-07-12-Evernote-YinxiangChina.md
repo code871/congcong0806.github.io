@@ -70,15 +70,16 @@ tags:                               #标签
 	8. 分享笔记给微信好友/群组(iOS,Android)
 	9. 分享笔记到 QQ 空间(Android)
 	10. 自定义模板(Mac,Win,iOS,Android)
-	11. 任务清单(Mac,iOS,Android)
+	11. 任务清单(Mac,Win,iOS,Android)
 	12. 思维导图(Mac,Win)
 	13. 素材库(Mac,iOS)
 	14. 全新网页版模块化编辑器(Web)
 	15. OCR提取图上文字(iOS,Android)
 	16. 助理(iOS)
-	16. 协作
-	17. 官方笔记本(Mac,Win,iOS,Android)
-	18. 印象阅读(Android)
+	17. 空间(Win,iOS,Android)
+	18. 协作
+	19. 官方笔记本(Mac,Win,iOS,Android)
+	20. 印象阅读(Android)
 
 	Evernote App:
 	1. logo:白底绿大象的图标
@@ -92,7 +93,7 @@ tags:                               #标签
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪:印象笔记资深印象大使,印象笔记年度象亲,坚果云效率大使,幕布布道师
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>

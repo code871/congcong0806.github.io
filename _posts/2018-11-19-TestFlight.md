@@ -51,6 +51,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
+- Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
 - Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
@@ -89,7 +90,11 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
+- iPhone 滚动截屏工具 <https://testflight.apple.com/join/neWZqsq8>
+- 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
+- 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
+- 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
 - 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
 - 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
 - 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
@@ -102,7 +107,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - DropZap World <https://testflight.apple.com/join/CdEXgjst>
 - Up - File transfer & sharing <https://testflight.apple.com/join/pgni34xJ>
 - Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
-- QQ音乐 <https://testflight.apple.com/join/s5wwLCur>
+- QQ音乐 <https://testflight.apple.com/join/hBF4PAO7>
 - Outcast for Watch <https://testflight.apple.com/join/NFhBJlx3>
 - HealthFace <https://testflight.apple.com/join/svD0JS3Z>
 - Streaks Workou <https://testflight.apple.com/join/OqYBblCA>
@@ -174,6 +179,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Potatso Lite <https://testflight.apple.com/join/NkF46PRd>
 - BananaNet <https://testflight.apple.com/join/v5x8B81b>
 - Thor <https://testflight.apple.com/join/2vnRvOTX>
+- Anubis <https://testflight.apple.com/join/LzjySbQx>
 - Shu - Magic File Viewer beta <https://testflight.apple.com/join/4nss4sdk>
 - WhaleBlue <https://testflight.apple.com/join/jtBRluFe>
 - Mume VPN <https://testflight.apple.com/join/wgXjVEh8>
@@ -311,7 +317,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪:印象笔记资深印象大使,印象笔记年度象亲,坚果云效率大使,幕布布道师
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
