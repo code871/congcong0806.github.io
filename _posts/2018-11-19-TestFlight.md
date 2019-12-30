@@ -51,9 +51,11 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
+- Drafts <https://testflight.apple.com/join/wHD1YVwY>
 - Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
-- Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
+- Enpass <https://testflight.apple.com/join/hIec0gli>
+- KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
@@ -72,6 +74,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Pocket <https://testflight.apple.com/join/LxKzQMpu>
 - Trello <https://testflight.apple.com/join/cRWMcQsr>
 - Feedly Lab <https://testflight.apple.com/join/DcxRQdP9>
+- NetNewsWire <https://testflight.apple.com/join/5Mh4hVpS>
 - Spotify Music <https://testflight.apple.com/join/1SyedSId>
 - Dropbox <https://testflight.apple.com/join/LBZaRq4I>
 - Overcast <https://testflight.apple.com/join/ua0oicPc>
@@ -91,7 +94,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
-- iPhone 滚动截屏工具 <https://testflight.apple.com/join/neWZqsq8>
+- iPhone 滚动截屏工具 <https://testflight.apple.com/join/BwJotO7r>
 - 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
 - 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
@@ -141,7 +144,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Quizlet <https://testflight.apple.com/join/mwhcPqxJ>
 - Yamble <https://testflight.apple.com/join/sWspgco2>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
-- KyPass 4 密码管理 <https://testflight.apple.com/join/wlZmOo9t>
 - MK播放器 <https://testflight.apple.com/join/qUEu2p3L>
 - Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
@@ -170,6 +172,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Unicode Keyboard <https://testflight.apple.com/join/YKH3kGpt>
 - KMPlayer <https://testflight.apple.com/join/9V26Ee9Z>
 - 尺素 <https://testflight.apple.com/join/hyppXi3U>
+- IP.SB <https://testflight.apple.com/join/jPWh8ECP>
 
 ---
 
