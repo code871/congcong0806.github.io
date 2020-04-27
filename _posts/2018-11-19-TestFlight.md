@@ -57,11 +57,13 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Enpass <https://testflight.apple.com/join/hIec0gli>
 - KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
+- Working Copy - Git client <https://testflight.apple.com/join/ZzqOu8tX>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
 - Infuse Pro 6 <https://testflight.apple.com/join/iLiXoZi4>
 - Snapchat <https://testflight.apple.com/join/yP1ZHFr0>
+- OmniFocus 3 <https://testflight.apple.com/join/1eaxIMbo>
 - OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
@@ -84,6 +86,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Sleep Cycle <https://testflight.apple.com/join/8RcEFqFF>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
+- Spring for Twitter <https://testflight.apple.com/join/cLXi3ov0>
+- Facebook <https://testflight.apple.com/join/C1a3MRG4>
 - Launch Center Pro <https://testflight.apple.com/join/DpujKg3U>
 - Picsew <https://testflight.apple.com/join/nY8mCbA3>
 - Xbox <https://testflight.apple.com/join/dfUeaFHS>
@@ -95,25 +99,14 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
-- 迅雷Beta <https://testflight.apple.com/join/3LfmPkMY>
-- iPhone 滚动截屏工具 <https://testflight.apple.com/join/BwJotO7r>
-- 滴答清单 TickTick <https://testflight.apple.com/join/enbplyH1>
-- 知乎 <https://testflight.apple.com/join/TX83Mn7J>
-- 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
-- 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
-- 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
-- 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
-- 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
 - Simple Tasks 2 <https://testflight.apple.com/join/I5ZvVKyh>
 - Allegory <https://testflight.apple.com/join/FsXXat52>
 - Opera Touch <https://testflight.apple.com/join/ASrCFVHB>
-- 番组计划 <https://testflight.apple.com/join/N0bwYmVR>
 - To Dot <https://testflight.apple.com/join/7o1Q4Q8p>
 - my ToDo <https://testflight.apple.com/join/V4zOhaAT>
+- Craft Docs <https://testflight.apple.com/join/LDfvWgkZ>
 - DropZap World <https://testflight.apple.com/join/CdEXgjst>
 - Up - File transfer & sharing <https://testflight.apple.com/join/pgni34xJ>
-- Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
-- QQ音乐 <https://testflight.apple.com/join/hBF4PAO7>
 - Outcast for Watch <https://testflight.apple.com/join/NFhBJlx3>
 - HealthFace <https://testflight.apple.com/join/svD0JS3Z>
 - Streaks Workou <https://testflight.apple.com/join/OqYBblCA>
@@ -121,12 +114,10 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - YACReader <https://testflight.apple.com/join/5zhB7sRP>
 - Booklover <https://testflight.apple.com/join/Wq7G1vFL>
 - ownCloud <https://testflight.apple.com/join/Oktj0iKv>
-- 捷径社区 <https://testflight.apple.com/join/LeuKqKYX>
 - ttte for Twitter <https://testflight.apple.com/join/YsHONy5I>
 - Termius - SSH client <https://testflight.apple.com/join/MnuClabg>
 - WordPress <https://testflight.apple.com/join/AkJQt8Pw>
 - BeSafe <https://testflight.apple.com/join/ICUaKS17>
-- 网盘搜索-资源搜索神器 <https://testflight.apple.com/join/k02d3pgQ>
 - Working Copy <https://testflight.apple.com/join/zL3ICb6K>
 - Pythonista 3 <https://testflight.apple.com/join/qDkBu2ur>
 - Imgur <https://testflight.apple.com/join/Qd42y5Pw>
@@ -137,31 +128,20 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Musixmatch <https://testflight.apple.com/join/7yLzN5td>
 - Darkroom <https://testflight.apple.com/join/mzR3XvHe>
 - MEGA <https://testflight.apple.com/join/4x1P5Tnx>
-- 票夹 <https://testflight.apple.com/join/sPJTq8Ff>
 - Eastwatch <https://testflight.apple.com/join/SmfNOeJ2>
-- 小記 <https://testflight.apple.com/join/aqoXcoG3>
-- 细语 Small Talk <https://testflight.apple.com/join/ArSNTmMC>
 - DevSwitch <https://testflight.apple.com/join/qYu3ptEV>
 - HTTP Catcher <https://testflight.apple.com/join/4Qt2lIm5>
 - Quizlet <https://testflight.apple.com/join/mwhcPqxJ>
 - Yamble <https://testflight.apple.com/join/sWspgco2>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
-- MK播放器 <https://testflight.apple.com/join/qUEu2p3L>
 - Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
 - Notes Plus <https://testflight.apple.com/join/DHJexhQq>
-- 易有云 <https://testflight.apple.com/join/Pl4jm65I>
-- AirPlay 便捷切换工具 <https://testflight.apple.com/join/E7U0UsBs>
-- 泼辣修图出品视频编辑应用 24fps <https://testflight.apple.com/join/aY3y9aOM>
-- OnlyTalk - 你和她/他的专属语聊 <https://testflight.apple.com/join/TLomK0Vy>
 - Yuri beta <https://testflight.apple.com/join/xCgwh5WX>
-- 七猫小说 <https://testflight.apple.com/join/UaD5Pl6t>
-- 期待 <https://testflight.apple.com/join/i37NXl07>
 - V2LF <https://testflight.apple.com/join/cvx4MQuh>
 - Sky Beta <https://testflight.apple.com/join/S41tc3c0>
 - Feeds - All the Web, One Feed <https://testflight.apple.com/join/YBFNq1bw>
 - Wissen PDF reader <https://testflight.apple.com/join/HvCrp5Th>
-- 酷安酷图 <https://testflight.apple.com/join/9ennNtu2>
 - Cats & Dogs <https://testflight.apple.com/join/rGDBZ3hs>
 - Art Wallpapers Daily <https://testflight.apple.com/join/2J53lBua>
 - SM.MS <https://testflight.apple.com/join/bQz911w3>
@@ -169,15 +149,56 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - FullPlayer <https://testflight.apple.com/join/HktpUEoB>
 - Hipstamatic X Analog Camera <https://testflight.apple.com/join/By8fKrxM>
 - Scriptable <https://testflight.apple.com/join/uN1vTqxk>
-- TG-电报 <https://testflight.apple.com/join/njOfcmIw>
 - FlyChat <https://testflight.apple.com/join/1UCaD5p9>
 - Unicode Keyboard <https://testflight.apple.com/join/YKH3kGpt>
 - KMPlayer <https://testflight.apple.com/join/9V26Ee9Z>
-- 尺素 <https://testflight.apple.com/join/hyppXi3U>
 - IP.SB <https://testflight.apple.com/join/jPWh8ECP>
 - Eastwatch <https://testflight.apple.com/join/SmfNOeJ2>
 - Stellaris: Galaxy Command <https://testflight.apple.com/join/L5aHAZLS>
 - LaunchCuts <https://testflight.apple.com/join/OVOtZGQ9>
+- The App List <https://testflight.apple.com/join/oV5HiCSz>
+- Astreos <https://testflight.apple.com/join/SHQFznkM>
+- LaunchCuts <https://testflight.apple.com/join/OVOtZGQ9>
+- Launcher <https://testflight.apple.com/join/mV5oRUT7>
+- Brave Beta <https://testflight.apple.com/join/Trcbh1o3>
+- WorldTally Client <https://testflight.apple.com/join/4lMd0X2C>
+- Bidesk App <https://testflight.apple.com/join/sxRQjvOe>
+- Collabora Office <https://testflight.apple.com/join/TEnBWi68>
+- Overdrop Weather <http://testflight.apple.com/join/9ZhoC6yu>
+- ArianCast <https://testflight.apple.com/join/IyMuFyNp>
+- 手机淘宝 <https://testflight.apple.com/join/TThGL9RX>
+- 知乎 <https://testflight.apple.com/join/TX83Mn7J>
+- 迅雷Beta <https://testflight.apple.com/join/TeMz5XHg>
+- iPhone 滚动截屏工具 <https://testflight.apple.com/join/BwJotO7r>
+- 滴答清单 TickTick <https://testflight.apple.com/join/enbplyH1>
+- 知乎 <https://testflight.apple.com/join/TX83Mn7J>
+- 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
+- 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
+- QQ音乐 <https://testflight.apple.com/join/hBF4PAO7>
+- 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
+- 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
+- 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
+- 番组计划 <https://testflight.apple.com/join/N0bwYmVR>
+- 捷径社区 <https://testflight.apple.com/join/LeuKqKYX>
+- 网盘搜索-资源搜索神器 <https://testflight.apple.com/join/k02d3pgQ>
+- 票夹 <https://testflight.apple.com/join/sPJTq8Ff>
+- 小記 <https://testflight.apple.com/join/aqoXcoG3>
+- 细语 Small Talk <https://testflight.apple.com/join/ArSNTmMC>
+- MK播放器 <https://testflight.apple.com/join/qUEu2p3L>
+- 易有云 <https://testflight.apple.com/join/Pl4jm65I>
+- 七猫小说 <https://testflight.apple.com/join/UaD5Pl6t>
+- 期待 <https://testflight.apple.com/join/i37NXl07>
+- 酷安酷图 <https://testflight.apple.com/join/9ennNtu2>
+- 尺素 <https://testflight.apple.com/join/hyppXi3U>
+- 爱美剧 <https://testflight.apple.com/join/u1m4v3os>
+- 松鼠视频 <https://testflight.apple.com/join/NRcxZuiF>
+- AirPlay 便捷切换工具 <https://testflight.apple.com/join/E7U0UsBs>
+- 泼辣修图出品视频编辑应用 24fps <https://testflight.apple.com/join/aY3y9aOM>
+- OnlyTalk - 你和她/他的专属语聊 <https://testflight.apple.com/join/TLomK0Vy>
+- XYZManager-玲珑文件管理器 <https://testflight.apple.com/join/ae7vygrb>
+- Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
+- DNS更改器 <https://testflight.apple.com/join/w2Fq4FSH>
+- TG-电报 <https://testflight.apple.com/join/njOfcmIw>
 
 ---
 

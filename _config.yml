@@ -22,7 +22,7 @@ zhihu_username:     congcong
 github_username:    congcong0806
 #facebook_username:  baiying.qiu.7
 jianshu_username:   da1809147fba
-twitter_username:   congcong0
+twitter_username:   congcongu
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -79,27 +79,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书",
-        href: "http://www.jianshu.com/u/da1809147fba"
-    },
-    {
-        title: "推特",
-        href: "https://twitter.com/congcongxo"
-    },
-    {
-        title: "微博",
-        href: "https://weibo.com/congcong0806"
-    },
-    {
         title: "Telegram 社群",
-        href: "https://t.me/YinxiangBiji"
+        href: "https://t.me/yxbjx"
     },
     {
         title: "Telegram 频道",
         href: "https://t.me/YinxiangBiji_News"
     },
     {
-        title: "几博",
-        href: "https://i.lisuanlaoji.com"
+        title: "睿鸽",
+        href: "http://j.ls"
     }
 ]
