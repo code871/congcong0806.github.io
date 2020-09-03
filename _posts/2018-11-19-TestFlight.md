@@ -47,7 +47,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Skype For iPhone <https://testflight.apple.com/join/fB5IkJT7>
 - Skype For iPad <https://testflight.apple.com/join/vnSIsolv>
 - Telegram <https://testflight.apple.com/join/u6iogfd0>
-- Telegram X [https://rink.hockeyapp.net](https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63)
+- Telegram X <https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63>
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
@@ -58,6 +58,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
 - Working Copy - Git client <https://testflight.apple.com/join/ZzqOu8tX>
+- Scriptable <https://testflight.apple.com/join/uN1vTqxk>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
@@ -87,13 +88,15 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
 - Spring for Twitter <https://testflight.apple.com/join/cLXi3ov0>
+- Fenix for Twitter <https://testflight.apple.com/join/poQA1Iml>
+- Aviary <https://testflight.apple.com/join/rbXVO72G>
+- Pigeon - SNS Client <https://testflight.apple.com/join/fQQrtZMS>
 - Facebook <https://testflight.apple.com/join/C1a3MRG4>
 - Launch Center Pro <https://testflight.apple.com/join/DpujKg3U>
 - Picsew <https://testflight.apple.com/join/nY8mCbA3>
 - Xbox <https://testflight.apple.com/join/dfUeaFHS>
 - Signal <https://testflight.apple.com/join/8FHtd1Jq>
 - Aurora Reader <https://testflight.apple.com/join/3KgOyweE>
-- Fenix for Twitter <https://testflight.apple.com/join/poQA1Iml>
 - Cover Screenshot <https://testflight.apple.com/join/bKTfTrvV>
 - Airmail <https://testflight.apple.com/join/1AcpfFq3>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
@@ -199,6 +202,9 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
 - DNS更改器 <https://testflight.apple.com/join/w2Fq4FSH>
 - TG-电报 <https://testflight.apple.com/join/njOfcmIw>
+- Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
+- Lyd - Watch Remote for Sonos <https://testflight.apple.com/join/aNMuMdq9>
+- Stop Motion Studio Pro <https://testflight.apple.com/join/rfWbdRvr>
 
 ---
 
